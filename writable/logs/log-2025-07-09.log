@@ -1,0 +1,1507 @@
+DEBUG - 2025-07-09 05:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 05:59:17 --> Error: Class "dompdf\Dompdf" not found
+[Method: GET, Route: produk/download]
+in APPPATH\Controllers\ProdukController.php on line 106.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 05:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 05:59:48 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_1288.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_1288.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_1288.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 05:59:51 --> ErrorException: Allowed memory size of 536870912 bytes exhausted (tried to allocate 262148096 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_1288.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 05:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 05:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 05:59:58 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_3930.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_3930.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_3930.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:00:01 --> ErrorException: Allowed memory size of 536870912 bytes exhausted (tried to allocate 262148096 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_3930.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:01:48 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_E5CC.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_E5CC.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_E5CC.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:01:50 --> ErrorException: Allowed memory size of 536870912 bytes exhausted (tried to allocate 262148096 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_E5CC.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:02:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:04:16 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_288D.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_288D.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_288D.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:04:19 --> ErrorException: Allowed memory size of 536870912 bytes exhausted (tried to allocate 262148096 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_288D.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(115): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:08:07 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_B0A0.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_B0A0.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_B0A0.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(117): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:08:18 --> ErrorException: Allowed memory size of 1073741824 bytes exhausted (tried to allocate 530583552 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_B0A0.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(117): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:08:51 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_5C36.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_5C36.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_5C36.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(117): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:11:28 --> ErrorException: CodeIgniter\Events\Events::Config\{closure}(): Cannot use output buffering in output buffering display handlers
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_5C36.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(117): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Config\Events.php on line 36.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:14:20 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_5F80.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_5F80.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_5F80.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:14:59 --> ErrorException: Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1067454464 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_5F80.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:15:10 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_2314.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_2314.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_2314.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:15:49 --> ErrorException: Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1067454464 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_2314.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:17:09 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_F568.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_F568.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_F568.tmp', 282.9405596370907, 143.08374803149604, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:17:48 --> ErrorException: Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1067454464 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_F568.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 282.94055963709, 143.0837480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:19:01 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_A947.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_A947.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_A947.tmp', 506.2232307031486, 126.19374803149606, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:19:40 --> ErrorException: Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1067454464 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_A947.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 506.22323070315, 126.1937480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 06:31:31 --> Dompdf\Exception: Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_1975.tmp.  Please install the image PHP extension.
+[Method: GET, Route: produk/download]
+in VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php on line 608.
+ 1 VENDORPATH\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_1975.tmp', 'webp')
+ 2 VENDORPATH\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\AppData\\Local\\Temp\\ca_1975.tmp', 506.2232307031486, 126.19374803149606, 37.5, 37.5, 'normal')
+ 3 VENDORPATH\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+ 4 VENDORPATH\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+ 5 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+ 6 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+ 7 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+ 8 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+ 9 VENDORPATH\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+10 VENDORPATH\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+11 VENDORPATH\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(null)
+12 VENDORPATH\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+13 APPPATH\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+CRITICAL - 2025-07-09 06:32:10 --> ErrorException: Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1067454464 bytes)
+【Previous Exception】
+Dompdf\Exception
+Function imagecreatefromwebp() not found.  Cannot convert webp image: C:\Users\REIKI\AppData\Local\Temp\ca_1975.tmp.  Please install the image PHP extension.
+#0 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Adapter\CPDF.php(662): Dompdf\Adapter\CPDF->_convert_to_png('C:\\Users\\REIKI\\...', 'webp')
+#1 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer\Image.php(63): Dompdf\Adapter\CPDF->image('C:\\Users\\REIKI\\...', 506.22323070315, 126.1937480315, 37.5, 37.5, 'normal')
+#2 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(305): Dompdf\Renderer\Image->render(Object(Dompdf\FrameDecorator\Image))
+#3 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(140): Dompdf\Renderer->_render_frame('image', Object(Dompdf\FrameDecorator\Image))
+#4 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Image))
+#5 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableCell))
+#6 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRow))
+#7 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\TableRowGroup))
+#8 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Renderer.php(207): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Table))
+#9 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameReflower\Page.php(149): Dompdf\Renderer->render(Object(Dompdf\FrameDecorator\Block))
+#10 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(905): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 D:\Program Files\XAMPP\htdocs\myproject-toko\vendor\dompdf\dompdf\src\Dompdf.php(808): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 D:\Program Files\XAMPP\htdocs\myproject-toko\app\Controllers\ProdukController.php(118): Dompdf\Dompdf->render()
+#13 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(933): App\Controllers\ProdukController->download()
+#14 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#15 D:\Program Files\XAMPP\htdocs\myproject-toko\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#17 D:\Program Files\XAMPP\htdocs\myproject-toko\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#18 D:\Program Files\XAMPP\htdocs\myproject-toko\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#19 D:\Program Files\XAMPP\htdocs\myproject-toko\system\rewrite.php(44): require_once('D:\\Program File...')
+#20 {main}
+[Method: GET, Route: produk/download]
+in APPPATH\Views\errors\html\error_exception.php on line 131.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2025-07-09 06:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 06:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 07:42:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: profile]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1031): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\ProfileController.php(36): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfileController->update()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfileController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 07:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 07:47:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: profile]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1031): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\ProfileController.php(36): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfileController->update()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfileController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 07:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 07:58:40 --> ErrorException: Undefined variable $username
+[Method: POST, Route: profile]
+in APPPATH\Controllers\ProfileController.php on line 21.
+ 1 APPPATH\Controllers\ProfileController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $username', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Controllers\\ProfileController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProfileController->update()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfileController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 07:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 07:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:44:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 08:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 09:50:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 10:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:06:15 --> ErrorException: Undefined array key "harga"
+[Method: GET, Route: /]
+in APPPATH\Views\v_home.php on line 10.
+ 1 APPPATH\Views\v_home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "harga"', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_home.php', 10)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_home', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('v_home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:08:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:26:33 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: GET, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(16): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:42:33 --> Error: Call to undefined function form_open()
+[Method: GET, Route: produk/detail/1]
+in APPPATH\Views\v_produkDetail.php on line 39.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_produkDetail', [], true)
+ 4 APPPATH\Controllers\ProdukController.php(134): view('v_produkDetail', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->detail('1')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:43:50 --> ErrorException: Undefined variable $item
+[Method: GET, Route: produk/detail/1]
+in APPPATH\Views\v_produkDetail.php on line 41.
+ 1 APPPATH\Views\v_produkDetail.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_produkDetail.php', 41)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_produkDetail.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_produkDetail', [], true)
+ 5 APPPATH\Controllers\ProdukController.php(136): view('v_produkDetail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProdukController->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:46:41 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: POST, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(16): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:47:00 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: POST, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(16): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 11:52:17 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: POST, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(17): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 11:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 11:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 12:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 12:01:02 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: GET, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(16): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 12:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 12:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 12:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 12:07:36 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: POST, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(16): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 12:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 12:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 12:19:42 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: POST, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(16): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 14:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 14:01:47 --> Error: Class "JasonN\Cart\Cart" not found
+[Method: POST, Route: keranjang]
+in VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php on line 35.
+ 1 SYSTEMPATH\Config\BaseService.php(312): CodeIgniterCart\Config\Services::cart(false)
+ 2 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('cart', [...])
+ 3 VENDORPATH\jason-napolitano\codeigniter4-cart-module\src\Config\Services.php(33): CodeIgniter\Config\BaseService::getSharedInstance('cart')
+ 4 SYSTEMPATH\Config\BaseService.php(321): CodeIgniterCart\Config\Services::cart()
+ 5 APPPATH\Controllers\TransaksiController.php(17): CodeIgniter\Config\BaseService::__callStatic('cart', [])
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TransaksiController->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 14:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:04:17 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:04:20 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:08:18 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:08:20 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:13:10 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:15:53 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:15:53 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:15:55 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:15:55 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:19 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:21 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:23 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:37 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:38 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:48 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:48 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:16:54 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:17:08 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:17:10 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:17:13 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:17:13 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 14:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:28 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:31 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:31 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:33 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:34 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:37 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:37 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:40 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:40 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:41 --> Cart Class Initialized
+INFO - 2025-07-09 14:27:41 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:45 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:45 --> Cart Class Initialized
+INFO - 2025-07-09 14:27:45 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:27:48 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:28:05 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:28:05 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:28:06 --> Cart Class Initialized
+INFO - 2025-07-09 14:28:06 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:28:22 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:29:12 --> Cart Class Initialized
+INFO - 2025-07-09 14:29:12 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:30:24 --> Cart Class Initialized
+INFO - 2025-07-09 14:30:24 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:31:13 --> Cart Class Initialized
+INFO - 2025-07-09 14:31:13 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:31:19 --> Cart Class Initialized
+INFO - 2025-07-09 14:31:19 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:31:25 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:31:25 --> Cart Class Initialized
+INFO - 2025-07-09 14:31:25 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:31:28 --> Cart Class Initialized
+DEBUG - 2025-07-09 14:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:45:03 --> Cart Class Initialized
+CRITICAL - 2025-07-09 14:45:03 --> ErrorException: Undefined property: CodeIgniter\View\View::$request
+[Method: GET, Route: /]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('components/header', null, true)
+ 5 APPPATH\Views\layout.php(47): CodeIgniter\View\View->include('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('layout', [], true)
+ 9 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_home', [], true)
+10 APPPATH\Controllers\Home.php(23): view('v_home', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+12 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 14:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:49:15 --> Cart Class Initialized
+INFO - 2025-07-09 14:49:15 --> Cart Class Initialized
+CRITICAL - 2025-07-09 14:49:15 --> ErrorException: Undefined property: CodeIgniter\View\View::$request
+[Method: GET, Route: keranjang]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('components/header', null, true)
+ 5 APPPATH\Views\layout.php(47): CodeIgniter\View\View->include('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('layout', [], true)
+ 9 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_keranjang', [], true)
+10 APPPATH\Controllers\TransaksiController.php(24): view('v_keranjang', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TransaksiController->index()
+12 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TransaksiController))
+13 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 14:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:49:17 --> Cart Class Initialized
+INFO - 2025-07-09 14:49:17 --> Cart Class Initialized
+CRITICAL - 2025-07-09 14:49:17 --> ErrorException: Undefined property: CodeIgniter\View\View::$request
+[Method: GET, Route: keranjang]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('components/header', null, true)
+ 5 APPPATH\Views\layout.php(47): CodeIgniter\View\View->include('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('layout', [], true)
+ 9 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_keranjang', [], true)
+10 APPPATH\Controllers\TransaksiController.php(24): view('v_keranjang', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TransaksiController->index()
+12 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TransaksiController))
+13 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 14:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 14:56:32 --> Cart Class Initialized
+INFO - 2025-07-09 14:56:32 --> Cart Class Initialized
+CRITICAL - 2025-07-09 14:56:32 --> ErrorException: Undefined property: CodeIgniter\View\View::$request
+[Method: GET, Route: keranjang]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('components/header', null, true)
+ 5 APPPATH\Views\layout.php(47): CodeIgniter\View\View->include('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('layout', [], true)
+ 9 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_keranjang', [], true)
+10 APPPATH\Controllers\TransaksiController.php(24): view('v_keranjang', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TransaksiController->index()
+12 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TransaksiController))
+13 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 15:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:03:39 --> Cart Class Initialized
+INFO - 2025-07-09 15:03:39 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:03:42 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 15:03:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "v_search_results.php"
+[Method: GET, Route: search]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_search_results.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_search_results', [], true)
+ 3 APPPATH\Controllers\Home.php(41): view('v_search_results', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->search()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 15:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 15:08:11 --> ErrorException: Undefined variable $query
+[Method: GET, Route: search]
+in APPPATH\Views\v_search.php on line 4.
+ 1 APPPATH\Views\v_search.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_search.php', 4)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_search.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_search', [], true)
+ 5 APPPATH\Controllers\Home.php(41): view('v_search', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->search()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 15:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:08:13 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 15:08:18 --> ErrorException: Undefined variable $query
+[Method: GET, Route: search]
+in APPPATH\Views\v_search.php on line 4.
+ 1 APPPATH\Views\v_search.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_search.php', 4)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_search.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_search', [], true)
+ 5 APPPATH\Controllers\Home.php(41): view('v_search', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->search()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 15:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:22:25 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-07-09 15:25:25 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: search]
+in APPPATH\Views\v_search.php on line 18.
+ 1 APPPATH\Views\v_search.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_search.php', 18)
+ 2 SYSTEMPATH\View\View.php(224): include('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\app\\Views\\v_search.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_search', [], true)
+ 5 APPPATH\Controllers\Home.php(52): view('v_search', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->search()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\Program Files\\XAMPP\\htdocs\\myproject-toko\\public\\index.php')
+DEBUG - 2025-07-09 15:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:26:56 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:27:04 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:27:37 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:27:45 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:27:55 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:27:58 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:28:00 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:28:02 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:28:17 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:28:32 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:28:45 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:29:57 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:30:00 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:30:02 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:30:04 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:30:09 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:30:22 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:30:36 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:32:11 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:32:13 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:32:16 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:32:20 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:32:39 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:33:11 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:33:21 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:33:30 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:33:40 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:33:44 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:37:10 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:37:55 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:38:00 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:38:04 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:38:08 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:38:13 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:38:39 --> Cart Class Initialized
+DEBUG - 2025-07-09 15:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 15:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 15:55:53 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 16:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:01:08 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 16:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:01:52 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 16:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:03:41 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-09 16:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:09:02 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:09:24 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:09:31 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:09:45 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:09:53 --> Cart Class Initialized
+DEBUG - 2025-07-09 16:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-07-09 16:09:59 --> Cart Class Initialized
